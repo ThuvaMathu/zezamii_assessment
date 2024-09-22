@@ -118,4 +118,4 @@
 
   3. **Access**:
 
-  - https://66f0216a22edb7b2caad7ba9--marvelous-sprite-b98d39.netlify.app
+  - http://zezamiiassessment.thuvarakan.info
